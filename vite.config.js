@@ -35,7 +35,8 @@ export default defineConfig({
     port: 5001
   },
   build: {
-    target: 'esnext' //browsers can handle the latest ES features
+    target: 'esnext', //browsers can handle the latest ES features
+    cssCodeSplit: true
   },
   esbuild: {
     supported: {
