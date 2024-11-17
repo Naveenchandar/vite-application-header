@@ -1,4 +1,4 @@
-import styles from 'https://naveen-vite-applicationh.netlify.app/assets/index-BeL68Zbp.css';
+import './index.css'
 import { Header } from './Header'
 
 function App() {
