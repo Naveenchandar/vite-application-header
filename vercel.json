@@ -1,7 +1,7 @@
 {
     "headers": [
         {
-            "source": "https://vite-application-microfrontend.vercel.app/(.*)",
+            "source": "/assets/(.*)",
             "headers": [
                 {
                     "key": "Access-Control-Allow-Origin",
