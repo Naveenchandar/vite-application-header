@@ -42,5 +42,6 @@ export default defineConfig({
     supported: {
       'top-level-await': true //browsers can handle top-level-await features
     }
-  }
+  },
+  base: 'https://naveen-vite-applicationh.netlify.app',
 })
